@@ -1,7 +1,7 @@
 # CE_Block
 The publicly available code for medical image registration released by the Smile Lab.
 
-## Pyramid Attention Network for Medical Image Registration (ISBI 2024)
+## Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation
 [Paper Link](https://arxiv.org/abs/2404.01723)
 
 By Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu, Yi Wang.
