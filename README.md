@@ -13,9 +13,11 @@ Code has been tested with Python 3.9 and PyTorch 1.12.1.
 If you use the code in your research, please cite:
 ```
 @article{wang2024contextual,
-  title={Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation},
+  title={Contextual embedding learning to enhance 2D networks for volumetric image segmentation},
   author={Wang, Zhuoyuan and Sun, Dong and Zeng, Xiangyun and Wu, Ruodai and Wang, Yi},
-  journal={arXiv preprint arXiv:2404.01723},
-  year={2024}
+  journal={Expert Systems with Applications},
+  pages={124279},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
