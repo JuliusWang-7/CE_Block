@@ -1,5 +1,5 @@
 # CE_Block
-The publicly available code for medical image registration released by the Smile Lab.
+The publicly available code for medical image segmentation released by the Smile Lab.
 
 ## Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation
 [Paper Link](https://arxiv.org/abs/2404.01723)
