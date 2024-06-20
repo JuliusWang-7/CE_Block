@@ -2,7 +2,7 @@
 The publicly available code for medical image segmentation released by the Smile Lab.
 
 ## Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation
-[Paper Link]([https://arxiv.org/abs/2404.01723](https://www.sciencedirect.com/science/article/abs/pii/S095741742401145X))
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S095741742401145X)
 
 By Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu, Yi Wang.
 
