@@ -9,6 +9,13 @@ By Zhuoyuan Wang, Dong Sun, Xiangyun Zeng, Ruodai Wu, Yi Wang.
 ### Environment
 Code has been tested with Python 3.9 and PyTorch 1.12.1.
 
+### Installation
+Install correlation layer:
+```
+$ cd correlation_package
+$ python setup.py install
+```
+
 ### Citation
 If you use the code in your research, please cite:
 ```
